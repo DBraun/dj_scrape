@@ -10,7 +10,6 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 
 USER_FOLDER = basedir + '/downloads/'
 BROWSING_FOLDER = 'http://www.deejayportal.com/download/acapellas/'
-DOWNLOAD_FOLDER = 'http://www.deejayportal.com/dldownloaddl/Acapellas/'
 
 
 class Scraper(object):
